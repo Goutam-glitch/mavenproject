@@ -50,6 +50,7 @@
             <li><strong>Join us and thank you for choosing DevOps!</strong></li>
             <li><b>Learn Here Lead Anywhere </b></li>
             <li><b>learn consistently<b><li>
+            <li><b>and grow consistently<b><li>
         </ul>
     </div>
 </body>
